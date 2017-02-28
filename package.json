@@ -1,0 +1,26 @@
+{
+  "name": "fcc-file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "File Metadata Microservice for FCC backend certificate",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgrcode/FCC-File-Metadata-Microservice.git"
+  },
+  "keywords": [],
+  "author": "Daniel González Reina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgrcode/FCC-File-Metadata-Microservice/issues"
+  },
+  "homepage": "https://github.com/dgrcode/FCC-File-Metadata-Microservice#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "multer": "^1.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-google": "^0.7.1"
+  }
+}
